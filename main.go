@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hoge/hello-world/subpkg"
+	"github.com/gamaspecial/go-hello-world/subpkg"
 )
 
 func main() {
